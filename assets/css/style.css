@@ -1,0 +1,57 @@
+::-webkit-scrollbar {
+    width: 6px; 
+    background-color: #F5F5F5; 
+}
+
+::-webkit-scrollbar-thumb {
+    background: #A9A9A9; 
+    border-radius: 8px;
+    height: 12px; 
+}
+
+#mainContainer {
+    height: 92%;
+    background-color: #FFFAF0; 
+    font-family: 'Tahoma', sans-serif; 
+}
+
+#addHabitContainer {
+    height: 15%;
+    background-color: #D1E8E2; 
+}
+
+#addHabitContainer span {
+    color: #005B5C; 
+}
+
+#habitList {
+    height: 80%;
+    background-color: #E9E1E1; 
+}
+
+#habitList h1 {
+    color: #3B3F88; 
+    font-family: 'Arial Black', sans-serif; 
+}
+
+.list-item {
+    background-color: #E0C1D1; 
+}
+
+.add-btn {
+    background-color: #008080; 
+    color: #FFFFFF;
+    font-family: 'Lucida Console', monospace; 
+}
+
+.add-btn:hover {
+    border: 2px solid #008080; 
+    color: #008080; 
+    font-weight: bold;
+}
+
+.day-card {
+    background-color: #FFE4E1; 
+    color: #3C2A4A; 
+    font-family: 'Courier New', monospace; 
+}
